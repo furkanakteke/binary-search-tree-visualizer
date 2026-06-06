@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\bin\Debug\AgacOdevi.exe.config
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\bin\Debug\AgacOdevi.exe
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\bin\Debug\AgacOdevi.pdb
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.Form1.resources
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.Properties.Resources.resources
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.exe
+C:\Users\Furkan\source\repos\AgacOdevi\AgacOdevi\obj\Debug\AgacOdevi.pdb
